@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/quote-archive\n"
+"POT-Creation-Date: 2009-06-15 08:58+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rodolfo Martínez <drimar@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: quote-archive.php:52
+msgid "Opciones"
+msgstr "Options"
+
+#: quote-archive.php:60
+#: quote-archive.php:75
+#: quote-archive.php:591
+msgid "Archivo de citas"
+msgstr "Quotes Archive"
+
+#: quote-archive.php:116
+msgid "Visualizar las citas"
+msgstr "View quotes"
+
+#: quote-archive.php:122
+msgid "Opciones actualizadas"
+msgstr "Options saved"
+
+#: quote-archive.php:132
+msgid "Datos a visualizar"
+msgstr "Data to view"
+
+#: quote-archive.php:134
+msgid "Valores actuales"
+msgstr "Present values"
+
+#: quote-archive.php:137
+msgid "Ver en el post"
+msgstr "View in the post"
+
+#: quote-archive.php:140
+#: quote-archive.php:145
+#: quote-archive.php:657
+msgid "Sí"
+msgstr "Yes"
+
+#: quote-archive.php:141
+#: quote-archive.php:146
+#: quote-archive.php:658
+msgid "No"
+msgstr "No"
+
+#: quote-archive.php:151
+msgid "Situar en"
+msgstr "Put at"
+
+#: quote-archive.php:154
+#: quote-archive.php:159
+msgid "Inicio"
+msgstr "Beginning"
+
+#: quote-archive.php:155
+#: quote-archive.php:160
+msgid "Final"
+msgstr "Ending"
+
+#: quote-archive.php:166
+msgid "Formato"
+msgstr "Format"
+
+#: quote-archive.php:172
+msgid "Tamaño nombre autor"
+msgstr "Author Name Size"
+
+#: quote-archive.php:194
+msgid "Color nombre autor"
+msgstr "Author Name Color"
+
+#: quote-archive.php:199
+msgid "Neutro"
+msgstr "None"
+
+#: quote-archive.php:199
+msgid "Negro"
+msgstr "Black"
+
+#: quote-archive.php:199
+msgid "Gris"
+msgstr "Grey"
+
+#: quote-archive.php:199
+msgid "Rojo oscuro"
+msgstr "Dark Red"
+
+#: quote-archive.php:199
+msgid "Naranja"
+msgstr "Orange"
+
+#: quote-archive.php:199
+msgid "Verde"
+msgstr "Green"
+
+#: quote-archive.php:199
+msgid "Amarillo"
+msgstr "Yellow"
+
+#: quote-archive.php:199
+msgid "Blanco"
+msgstr "White"
+
+#: quote-archive.php:219
+msgid "Estilo nombre autor"
+msgstr "Author Name Style"
+
+#: quote-archive.php:224
+msgid "Normal"
+msgstr "Normal"
+
+#: quote-archive.php:224
+msgid "Cursiva"
+msgstr "Italic"
+
+#: quote-archive.php:224
+msgid "Negrita"
+msgstr "Bold"
+
+#: quote-archive.php:249
+msgid "Alineación"
+msgstr "Align"
+
+#: quote-archive.php:254
+msgid "Izquierda"
+msgstr "Left"
+
+#: quote-archive.php:254
+msgid "Derecha"
+msgstr "Right"
+
+#: quote-archive.php:254
+msgid "Centro"
+msgstr "Center"
+
+#: quote-archive.php:254
+msgid "Justificada"
+msgstr "Justify"
+
+#: quote-archive.php:284
+msgid "Actualizar opciones"
+msgstr "Save Options"
+
+#: quote-archive.php:318
+msgid "Modificar"
+msgstr "Modify"
+
+#: quote-archive.php:319
+msgid "Añadir"
+msgstr "Append"
+
+#: quote-archive.php:320
+msgid "Ver datos"
+msgstr "View"
+
+#: quote-archive.php:321
+msgid "Eliminar"
+msgstr "Delete"
+
+#: quote-archive.php:322
+msgid "Limpiar"
+msgstr "Clear"
+
+#: quote-archive.php:323
+msgid "Confirmar"
+msgstr "Confirm"
+
+#: quote-archive.php:324
+msgid "Vaciar"
+msgstr "Delete All"
+
+#: quote-archive.php:325
+msgid "Valores iniciales"
+msgstr "Default Values"
+
+#: quote-archive.php:341
+msgid "Borrado"
+msgstr "Deleted"
+
+#: quote-archive.php:341
+msgid "Ya estás al principio de las citas"
+msgstr "Your are at the beginning"
+
+#: quote-archive.php:341
+msgid "Ya estás al final de las citas"
+msgstr "Your are at the end"
+
+#: quote-archive.php:341
+msgid "No hay citas para mostrar"
+msgstr "There is nothing to show"
+
+#: quote-archive.php:341
+msgid "Debe confirmar el borrado"
+msgstr "You must confirm the deletion"
+
+#: quote-archive.php:341
+msgid "Ya existe esa cita con ese autor"
+msgstr "This quote+author already exists"
+
+#: quote-archive.php:341
+msgid "La cita que está intentando modificar no existe"
+msgstr "The quote you are trying to modifya does not exist"
+
+#: quote-archive.php:341
+msgid "Se han borrado todas las citas"
+msgstr "You have deleted all"
+
+#: quote-archive.php:341
+msgid "Cargadas citas iniciales"
+msgstr "Default data loaded"
+
+#: quote-archive.php:623
+#: quote-archive.php:628
+msgid "Nuevo autor"
+msgstr "New Author"
+
+#: quote-archive.php:656
+msgid "Ver la cita"
+msgstr "Show the quote"
+
+#. Plugin Name of an extension
+msgid "Quote Archive"
+msgstr "Quote Archive"
+
+#. Description of an extension
+msgid "It allows to view and manage a quotation archive. The user can add quotes and decide where to wiew them (post, pages, sidebar...)"
+msgstr "It allows to view and manage a quotation archive. The user can add quotes and decide where to wiew them (post, pages, sidebar...)"
+
+#. Author of an extension
+msgid "Rodolfo Martínez"
+msgstr "Rodolfo Martínez"
+
+#. Author URI of an extension
+msgid "http://www.escritoenelagua.com/"
+msgstr "http://www.escritoenelagua.com/"
+
